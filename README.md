@@ -4,9 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
-- 🔭 I’m working on Projects of [Brain Strok prediction](https://github.com/UmAir227/BrainStrokePrediction/blob/main/project%20%20on%20Brain%20Stroke.ipynb)
-
--I am a Data Science & Analytics Specialist passionate about uncovering insights from data and building intelligent systems. I specialize in turning complex datasets into visual stories and predictive models.
+I am a Data Science & Analytics Specialist passionate about uncovering insights from data and building intelligent systems. I specialize in turning complex datasets into visual stories and predictive models.
 
 🚀 What I'm working on:
 🤖 Deep diving into Machine Learning and Artificial Intelligence.
@@ -28,4 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umair227&show_icons=true&locale=en&layout=compact" alt="umair227" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umair227&show_icons=true&locale=en" alt="umair227" /></p>
+
 
