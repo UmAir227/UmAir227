@@ -6,8 +6,14 @@
 
 - 🔭 I’m working on Projects of [Brain Strok prediction](https://github.com/UmAir227/BrainStrokePrediction/blob/main/project%20%20on%20Brain%20Stroke.ipynb)
 
-- 💬 Ask me about **I am a Data Science and Analytics Specialist with expertise in Excel, Power BI, Python, and SQL. I’ve worked on projects like BidAI, where I optimized bidding strategies using data analysis, and Brain Stroke Prediction: Developed a machine learning model to predict stroke risk based on health data."**. I aim to deliver impactful data-driven solutions.**
-I’m passionate about learning AI, web development, and solving real-world problems through data. Check out my projects and feel free to connect!. 
+-I am a Data Science & Analytics Specialist passionate about uncovering insights from data and building intelligent systems. I specialize in turning complex datasets into visual stories and predictive models.
+
+🚀 What I'm working on:
+🤖 Deep diving into Machine Learning and Artificial Intelligence.
+
+🌐 Bridging the gap between Data Science and Web Development.
+
+📊 Creating interactive dashboards to solve real-world business problems. 
 
 - 📫 How to reach me **https://www.linkedin.com/in/m-umair-azeem-458a7723a/**
 
@@ -22,3 +28,4 @@ I’m passionate about learning AI, web development, and solving real-world prob
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umair227&show_icons=true&locale=en&layout=compact" alt="umair227" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umair227&show_icons=true&locale=en" alt="umair227" /></p>
+
