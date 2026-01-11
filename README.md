@@ -1,49 +1,59 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umair Azeem</h1>
-<h3 align="center">Data Science & Analytics Specialist | AI & Machine Learning Enthusiast</h3>
+<h3 align="center">Data Science & Analytics Specialist | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umair227&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=umair227&label=Profile%20Views&color=0078d4&style=flat-square" alt="views" />
 </p>
 
-<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="Data Science" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzZueXF4ZzZueXF4ZzZueXF4ZzZueXF4ZzZueXF4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 👨‍💻 About Me
-I am a **Data Science & Analytics Specialist** dedicated to turning complex data into actionable insights. I specialize in building predictive models, data modeling, and creating high-impact visual stories that drive strategic decisions.
+### 👨‍💻 Professional Summary
+I am a dedicated **Data Science and Analytics Specialist** with a strong focus on building predictive models and extracting meaningful patterns from data. I specialize in applying **Machine Learning algorithms** to solve complex analytical problems and delivering data-driven solutions through advanced visualization.
 
-- 🤖 **Currently Focusing:** Deepening my expertise in **Deep Learning** and **Large Language Models (LLMs)**.
-- 📊 **Expertise:** Predictive Modeling, Statistical Analysis, and Business Intelligence.
-- 💡 **Goal:** To build AI-driven solutions that solve high-value real-world problems.
-- 📫 **Let's Connect:** [LinkedIn Profile](https://www.linkedin.com/in/m-umair-azeem-458a7723a/)
+* 🔭 **Technical Expertise:** Advanced Data Modeling and Predictive Analytics.
+* 🧠 **Machine Learning:** Strong command over **Supervised & Unsupervised Learning** (Regression, Classification, Clustering).
+* 📊 **Analytics:** Expert in creating interactive dashboards and automated reporting using **Power BI** and **SQL**.
+* 🎯 **Goal:** To bridge the gap between raw data and business strategy.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Core Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics-003366?style=for-the-badge&logo=academia&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ---
 
-### 📊 My GitHub Stats (VIP Dark Mode)
+### 📈 GitHub Analytics (Premium Dark Theme)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=umair227&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umair227&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=umair227&show_icons=true&theme=radical&hide_border=true&title_color=0078d4" />
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umair227&layout=compact&theme=radical&hide_border=true&title_color=0078d4" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=umair227&theme=tokyonight&hide_border=true" />
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=umair227&theme=radical&hide_border=true&stroke=0078d4" />
 </p>
 
 ---
 
-### 🤝 Connect with Me
+### 🤝 Connect & Collaborate
 <p align="left">
-<a href="https://www.linkedin.com/in/m-umair-azeem-458a7723a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/m-umair-azeem-458a7723a/" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
+
+<br />
+<p align="center"><i>"Data is the new oil, and I am the refinery."</i></p>
