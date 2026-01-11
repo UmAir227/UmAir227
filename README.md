@@ -1,59 +1,68 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umair Azeem</h1>
-<h3 align="center">Data Science & Analytics Specialist | Machine Learning Enthusiast</h3>
+<h3 align="center">Data Science & Analytics Specialist | Machine Learning Expert</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umair227&label=Profile%20Views&color=0078d4&style=flat-square" alt="views" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-<img align="right" alt="Data Science" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzZueXF4ZzZueXF4ZzZueXF4ZzZueXF4ZzZueXF4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Data Science" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzZueXF4ZzZueXF4ZzZueXF4ZzZueXF4ZzZueXF4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 👨‍💻 Professional Summary
-I am a dedicated **Data Science and Analytics Specialist** with a strong focus on building predictive models and extracting meaningful patterns from data. I specialize in applying **Machine Learning algorithms** to solve complex analytical problems and delivering data-driven solutions through advanced visualization.
+### 🧪 About My Work
+I am a **Data Science Specialist** focused on building robust analytical frameworks. My expertise lies in cleaning messy data and applying **Machine Learning Algorithms** to uncover hidden patterns. I don't just show data; I tell stories that drive impact.
 
-* 🔭 **Technical Expertise:** Advanced Data Modeling and Predictive Analytics.
-* 🧠 **Machine Learning:** Strong command over **Supervised & Unsupervised Learning** (Regression, Classification, Clustering).
-* 📊 **Analytics:** Expert in creating interactive dashboards and automated reporting using **Power BI** and **SQL**.
-* 🎯 **Goal:** To bridge the gap between raw data and business strategy.
+* 🛠️ **Problem Solver:** Specialized in Predictive Modeling & Statistical Inference.
+* 📈 **Business Intelligence:** Crafting high-level dashboards in **Power BI**.
+* 🧠 **Machine Learning:** Proficient in **Regression, Classification, & Clustering**.
+* 🎯 **Focus:** Data Wrangling, Feature Engineering, and Model Optimization.
 
 ---
 
-### 🛠️ Core Tech Stack
+### 💻 Technical Arsenal
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
+      <br />Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="SQL" />
+      <br />SQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/microsoft/PowerBI-Icons/raw/master/SVG/PowerBI.svg" width="40" height="40" alt="PowerBI" />
+      <br />Power BI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=scikitlearn" width="40" height="40" alt="ML" />
+      <br />Scikit-Learn
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Performance Metrics (Global Analytics)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umair227&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umair227&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=false" width="44%" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistics-003366?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umair227&theme=tokyonight&background=0D1117&ring=58A6FF&fire=58A6FF&stroke=58A6FF&currStreakNum=C9D1D9" width="95%" />
 </p>
 
 ---
 
-### 📈 GitHub Analytics (Premium Dark Theme)
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=umair227&show_icons=true&theme=radical&hide_border=true&title_color=0078d4" />
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umair227&layout=compact&theme=radical&hide_border=true&title_color=0078d4" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=umair227&theme=radical&hide_border=true&stroke=0078d4" />
-</p>
-
----
-
-### 🤝 Connect & Collaborate
+### 📱 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/m-umair-azeem-458a7723a/" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/m-umair-azeem-458a7723a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 <br />
-<p align="center"><i>"Data is the new oil, and I am the refinery."</i></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
+</p>
